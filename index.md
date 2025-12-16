@@ -1,4 +1,4 @@
-<p style="font-size:30px;text-align:center;line-height:100%"><b>Welcome to the International Planning Competition 2026: Probabilistic and Reinforcement Learning Track</b></p>
+<p style="font-size:30px;text-align:center;line-height:100%"><b>Welcome to the International Planning <span class="competition-highlight">Competition</span> 2026: Probabilistic and Reinforcement Learning Track</b></p>
 
 
 The International Probabilistic Planning Competition is organized in the context of the International Conference on Planning and Scheduling (ICAPS). It empirically evaluates state-of-the-art planning systems on a number of benchmark problems. The goals of the IPC are to promote planning research, highlight challenges in the planning community and provide new and interesting problems as benchmarks for future research.
