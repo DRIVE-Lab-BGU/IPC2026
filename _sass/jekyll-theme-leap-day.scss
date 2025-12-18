@@ -220,6 +220,11 @@ header {
 
   .header-text {
     flex: 1 1 360px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: center;
   }
 
   .image {
@@ -232,20 +237,28 @@ header {
       width: 110px;
       height: 110px;
       object-fit: contain;
-      filter: drop-shadow(0 8px 20px rgba(0,0,0,0.35));
+      filter: drop-shadow(0 4px 12px rgba(0,0,0,0.35));
     }
   }
 
   h1 {
-    font: 36px/44px 'Space Grotesk', 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 32px/40px 'Space Grotesk', 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #f8fafc;
-    text-shadow: 0px 8px 20px rgba(0,0,0,0.35);
+    text-shadow: 0px 4px 12px rgba(0,0,0,0.3);
     margin: 0px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
     -o-text-overflow: ellipsis;
     -ms-text-overflow: ellipsis;
+  }
+
+  .header-subtitle {
+    font-size: 20px;
+    line-height: 26px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-subtle);
   }
 
   p {
@@ -379,7 +392,7 @@ nav {
     border: 1px solid var(--panel-border);
     border-radius: 14px;
     padding: 18px 22px;
-    box-shadow: 0 15px 30px rgba(2,6,23,0.45);
+    box-shadow: 0 8px 18px rgba(2,6,23,0.35);
 
     li {
       padding: 6px 0px;
