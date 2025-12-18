@@ -3,7 +3,7 @@
 
 The International Probabilistic Planning Competition is organized in the context of the International Conference on Planning and Scheduling (ICAPS). It empirically evaluates state-of-the-art planning and Learning systems on a number of benchmark problems. The goals of the IPC are to promote research, highlight challenges in the planning community and provide new and interesting problems as benchmarks for future research.
 
-Since 2004, probabilistic tracks have been part of the IPC under different names (as the International Probabilistic Planning competition or as part of the uncertainty tracks). After 2004, 2006, 2008, 2011, 2014, 2018, and 2023 the 8th IPPC will be held in 2026 and conclude together with ICAPS, in July 2026, in Dublin (Ireland). This time it is organized by Ayal Taitler Yuval Aroosh and Palash Chatterjee.
+Since 2004, probabilistic tracks have been part of the IPC under different names (as the International Probabilistic Planning competition or as part of the uncertainty tracks). After 2004, 2006, 2008, 2011, 2014, 2018, and 2023 the 8th IPPC will be held in 2026 and conclude together with ICAPS, in July 2026, in Dublin (Ireland). This time it is organized by Ayal Taitler, Yuval Aroosh and Palash Chatterjee.
 
 
 ## Calls
@@ -39,7 +39,7 @@ We invite interested competitors to join the competition discussion:
 
 ## Setup
 
-This year's competition will be using the generic pyRDDLGym - an autogeneration tool for gym environments from RDDL textual description.
+This year's competition follow the previous iteration and will be using the generic pyRDDLGym - an autogeneration tool for gym environments from RDDL textual description.
 
 <img src="images/RDDLGym.jpg" alt="RDDLGym diagram">
 
@@ -54,7 +54,7 @@ pyRDDLGym also comes with a set of auxiliary utils and baseline methods:
 
 ## Domains
 
-We provide a sample of RDDL domains here and include a list of the eight Final Competition Domains further below. We still encourange the community to contribute user defined domains, or ideas you think the community should be aware of. While it will not make it into the current competition it will help enrich the the problem database, and be mature enough to be included in future competition.
+We provide a sample of RDDL domains here and include an updating list of the Competition Domains further below. We encourange the community to contribute user defined domains, or ideas you think the community should be aware of. While not all will be included in this competition, it will help enrich the the problem database, the suitable and mature enough suggestions will be included in the competition.
 
 
 <div class="image123" style="center">
