@@ -18,7 +18,7 @@ As part of the International Conference on Planning and Scheduling (ICAPS) 2026 
 * Domains will use a mix of discrete and continuous processes, endogenous and exogenous state and action noise, and strong internal structure.
 * Domains will exhibit a strong internal structure that can be leveraged for generalization and scalability.
 
-This competition focuses on structured decision-making problems—the kind where internal regularities, factored state/action spaces, and domain knowledge can be leveraged for problem decomposition, reasoning about scalability, and learning generalizable policies.
+This competition focuses on structured decision-making problems - the kind where internal regularities, factored state/action spaces, and domain knowledge can be leveraged for problem decomposition, reasoning about scalability, and learning generalizable policies.
 
 Critically, unlike most RL competitions, we provide the full **RDDL declarative model** of each domain. This allows competitors to go beyond black-box optimization and explore how explicit models can inform learning, planning, and hybrid approaches. We encourage submissions ranging from pure RL to pure planning to integrated methods, enabling direct comparisons between these paradigms in richly structured settings.
 
