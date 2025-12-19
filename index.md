@@ -18,7 +18,7 @@ Please forward the following calls to all interested parties:
 
 We invite interested competitors to join the competition discussion:
 
-   [ippc2023-rddl@googlegroups.com](https://groups.google.com/g/ippc2023-rddl)
+   [ippc2026-rddl@googlegroups.com](https://groups.google.com/g/ippc2026-rddl)
 
 ## Preliminary Schedule
 
@@ -31,9 +31,9 @@ We invite interested competitors to join the competition discussion:
 | Competitors registration deadline             | March 20, 2026    |
 | Dry-run                                       | April 19, 2026    |
 | Planner abstract dubmission                   | May 1, 2026       |
-| Contest run                                   | June 1-4, 2023    |
-| Final planner abstract dubmission             | June 12, 2023     |
-| Results announced                             | July 1, 2023     |
+| Contest run                                   | June 1-4, 2026    |
+| Final planner abstract dubmission             | June 12, 2026     |
+| Results announced                             | July 1, 2026     |
 
 
 
@@ -176,8 +176,8 @@ Information will be release soon.
 
 ## Organizers
 - [Ayal Taitler](httpsThe results were presented at the 33rd International Conference on Automated Planning and Scheduling ([ICAPS](https://icaps23.icaps-conference.org/)) on July 11 in Prague. The [presentation slides](/results/IPPC2023_results.pdf) of this talk contain additional details.
--[Yuval Aroosh]
--[Palash Chatterjee]
+- Yuval Aroosh
+- Palash Chatterjee
 ## Advisors
 - [Michael Gimelfarb](https://mike-gimelfarb.github.io/) (University of Toronto, CA)
 - [Scoot Sanner]
