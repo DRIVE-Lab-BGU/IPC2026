@@ -82,7 +82,7 @@ In addition to the original domain, we have recreated some of the classical cont
 
   <div style="display:inline-block; margin:5px;">
     <a href="reservoir.html">
-      <img src="images/cart_pole.gif" height="190" width="190" />
+      <img src="images/reservior.gif" height="190" width="190" />
       <p style="text-align:center;">Reservoir</p>
     </a>
   </div>
