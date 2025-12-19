@@ -78,3 +78,25 @@ params = {
 }
 ```
 
+## UAV
+
+A problem with a single controllable UAV:
+
+```python
+params = {
+          'num_aircraft': 1,
+          'num_control': 1,
+          'variance': 1.0,
+          'xrange': (-50., 50.),
+          'yrange': (-50., 50.),
+          'zrange': (0., 100.),
+          'horizon': 100,
+          'discount': 1.0
+}
+```
+
+
+## Traffic
+## Cart Pole
+## Mars Rovers Science Mission
+
