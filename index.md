@@ -163,4 +163,5 @@ Information will be release soon.
 ## Advisors
 - [Scott Sanner](https://d3m.mie.utoronto.ca/) (University of Toronto, CA)
 - [Michael Gimelfarb](https://mike-gimelfarb.github.io/) (University of Toronto, CA)
+
 Contact us: [ippc2026-rddl@googlegroups.com](https://groups.google.com/g/ippc2026-rddl)
