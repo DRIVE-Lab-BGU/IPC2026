@@ -53,10 +53,7 @@ pyRDDLGym also comes with a set of auxiliary utils and baseline methods:
 
 
 ## Domains
-
-We provide a sample of RDDL domains here and include an updating list of the Competition Domains further below. We encourange the community to contribute user defined domains, or ideas you think the community should be aware of. While not all will be included in this competition, it will help enrich the the problem database, the suitable and mature enough suggestions will be included in the competition.
-
-In addition to the original domain, we have recreated some of the classical control domains in RDDL. Illustrating how easy it is to generate domains in pyRDDLSim:
+We provide a sample of RDDL domains along with an evolving list of competition domains, including several classical control problems recreated in RDDL. We encourage the community to contribute user-defined domains or propose ideas that may be of interest to the broader community. Well-motivated and sufficiently mature suggestions may be considered for inclusion in the competition.
 <div class="image123" style="width:100%; text-align:center;">
 
   <div style="display:inline-block; margin:5px;">
