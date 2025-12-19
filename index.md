@@ -67,13 +67,6 @@ In addition to the original domain, we have recreated some of the classical cont
   </div>
 
   <div style="display:inline-block; margin:5px;">
-    <a href="powergen.html">
-      <img src="images/power_gen.gif" height="190" width="190" />
-      <p style="text-align:center;">Power Unit Commitment</p>
-    </a>
-  </div>
-
-  <div style="display:inline-block; margin:5px;">
     <a href="uav.html">
       <img src="images/drones.gif" height="190" width="190" />
       <p style="text-align:center;">UAV</p>
