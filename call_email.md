@@ -15,7 +15,7 @@ As part of the International Conference on Planning and Scheduling (ICAPS) 2026 
 
 * We will release domains and instances modeled in the RDDL language and provide an OpenAI Gym infrastructure for competitors.
 * We will introduce novel benchmark domains drawn from fields such as Operations Research, Energy Systems, and Intelligent Transportation.
-* Domains will use a mix of discrete and continuous processes, endogenous and exogenous state and action noise, and strong internal structure.
+* Domains will may have discrete or continuous action spaces, dynamics can be a mixed of discrete and continuous functions, endogenous and exogenous state and action noise, and strong internal structure.
 * Domains will exhibit a strong internal structure that can be leveraged for generalization and scalability.
 
 This competition focuses on structured decision-making problems - the kind where internal regularities, factored state/action spaces, and domain knowledge can be leveraged for problem decomposition, reasoning about scalability, and learning generalizable policies.
@@ -26,17 +26,12 @@ We invite interested competitors to join the competition discussion:
 
   ippc2026-rddl@googlegroups.com 
 
-We also invite RDDL domain contributions from the community.  If you are interested in designing a domain for the competition, please contact us at the above discussion list as soon as possible.  If your domain suggestion is chosen for the competition, we will work with you to design and adapt the domain to suit the competition.
+We also invite RDDL domain contributions from the community.  If you are interested in designing a domain for the competition, Please take a look at the already announced domains to understand the style and focus, and please contact us at the above discussion list as soon as possible.  If your domain suggestion is chosen for the competition, we will work with you to design and adapt the domain to suit the competition.
 More information on the competition and the pyRDDLGym infrastructure can be found at
 
   https://drive-lab-bgu.github.io/IPPC2026/ 
 
-which includes a description of the RDDL modeling language as well as the Python RDDLGym interface and quick install instructions for running the existing sample domains including 
-* Aerial drone control, 
-* Mars rover trajectory and sensor planning, 
-* Two-sided recommender systems, 
-* Elevator control, and
-* Power systems generation.
+which includes a description of the RDDL modeling language as well as the Python pyRDDLGym interface and quick install instructions for running the existing sample domains.
 
 If you have any questions about the competition or participation, please do not hesitate to reach out to us.
 
