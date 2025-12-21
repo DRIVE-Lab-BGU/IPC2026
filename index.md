@@ -161,6 +161,7 @@ Information will be release soon.
 - [Ayal Taitler](https://ataitler.github.io) (Ben-Gurion University of the Negev)
 - [Yuval Aroosh](https://github.com/yuv-989) (Ben-Gurion University of the Negev)
 - [Palash Chatterjee](https://pecey.github.io/) (Indiana University Bloomington)
+
 ## Advisors
 - [Scott Sanner](https://d3m.mie.utoronto.ca/) (University of Toronto, CA)
 - [Michael Gimelfarb](https://mike-gimelfarb.github.io/) (University of Toronto, CA)
