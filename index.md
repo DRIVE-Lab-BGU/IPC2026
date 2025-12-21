@@ -25,7 +25,7 @@ We invite interested competitors to join the competition discussion:
 
 | Event                                         | Date              |
 |:----------------------------------------------|:------------------|
-| Call for domains and praticipants             | December, 2025    |
+| Call for domains and praticipants             | December 22, 2025 |
 | Domain submission deadline                    | February 13, 2026 |
 | Final domains announcement                    | March 6, 2026     |
 | Competitors registration deadline             | March 20, 2026    |
@@ -33,19 +33,20 @@ We invite interested competitors to join the competition discussion:
 | Planner abstract dubmission                   | May 1, 2026       |
 | Contest run                                   | June 1-4, 2026    |
 | Final planner abstract dubmission             | June 12, 2026     |
-| Results announced                             | July 1, 2026     |
+| Results announced                             | July 1, 2026      |
 
 
 
 ## Setup
 
-This year's competition follow the previous iteration and will be using the generic pyRDDLGym - an autogeneration tool for gym environments from RDDL textual description.
+This year's competition follow the previous iteration and will be using the generic pyRDDLGym framewrok - an autogeneration tool for gym environments from RDDL textual description.
 
 <img src="images/RDDLGym.jpg" alt="RDDLGym diagram">
 
 More information about the infrastructure, how to use it and how to add user defined domains can be found the following short guide
 
-- [Infrastructure guide](/infrastructure.md)
+<!--- - [Infrastructure guide](/infrastructure.md) --->
+[Infrastructure guide](https://pyrddlgym.readthedocs.io/en/latest/)
 
 pyRDDLGym also comes with a set of auxiliary utils and baseline methods:
 
