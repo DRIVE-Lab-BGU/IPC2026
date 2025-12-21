@@ -162,7 +162,8 @@ The registration will be closed on March 15, 2023.
  
 ## Procedure
 Information will be release soon.
-### Final Competition Domains(TBD)
+
+### Final Competition Domains
 The competition will include:
 - 8 domains (Hopefully 5 instances per domain )
 - 5 instances per domain (released at competition time)
@@ -184,8 +185,33 @@ Documentation of the generators is available here:
 ### Competition Dry-run
 Information will be release soon.
 
-### Evaluation and Scoring (TBD )
-Information will be release soon.
+
+### Competition Run and Logistics
+The competition will take place Monday-Thursday June 1 - June 4 2026. 
+3 instances will be release for all 8 domains. Competitors will have the 4 days to tune their 
+methods for the 3 instances. At the end of the four days a docker image, with the 
+tuned method will be submitted. 
+
+Exact technical details and logistics will be announced soon
+
+
+### Evaluation and Scoring
+Each competitor will be evaluated on 50 randomized trials for each instance of the 8 competition domains.
+
+The average over all 50 trails will be taken as the raw score for each instance.
+
+Normalized [0,1] instance scores will be computed according to the following lower and upper bounds:
+- 0: max(noop policy, random policy).
+- 1: max(JaxPlanner, best competing method).
+
+A planner that does worse than 0 on this normalized scale will receive a 0. Each instance will have an hour (60 minutes) for general initilization, and then each trial will have 4 minutes
+time limit; total of 60 + 50*4 = 260 minutes will be allocated per instance, with independent timers for each stage (you cannot use 200 minutes for initilaization and then do all the 50 episdoes in 60 minutes). failure to execute any trial (e.g., crash) for an instance or exceeding the time limit in any trial
+for an instance will lead to overall normalized score of 0 for that instance. No competitor can exceed a
+score of 1, by definition. Note that scoring less then 0 will result in rounding to zero (adversarial acting).
+
+Normalized domain scores will be computed as an average of normalized instance scores.
+
+An overall competition score will be computed as an average of normalized domain scores.
 
 
 
